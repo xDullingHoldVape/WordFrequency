@@ -1,0 +1,14 @@
+D:\VisualStudio\V1Program\V1Program\bin\Debug\net10.0\V1Program.exe
+D:\VisualStudio\V1Program\V1Program\bin\Debug\net10.0\V1Program.deps.json
+D:\VisualStudio\V1Program\V1Program\bin\Debug\net10.0\V1Program.runtimeconfig.json
+D:\VisualStudio\V1Program\V1Program\bin\Debug\net10.0\V1Program.dll
+D:\VisualStudio\V1Program\V1Program\bin\Debug\net10.0\V1Program.pdb
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\V1Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\V1Program.AssemblyInfoInputs.cache
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\V1Program.AssemblyInfo.cs
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\V1Program.csproj.CoreCompileInputs.cache
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\V1Program.dll
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\refint\V1Program.dll
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\V1Program.pdb
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\V1Program.genruntimeconfig.cache
+D:\VisualStudio\V1Program\V1Program\obj\Debug\net10.0\ref\V1Program.dll

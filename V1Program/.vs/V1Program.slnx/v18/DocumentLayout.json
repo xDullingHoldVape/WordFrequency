@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\V1Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FB03-0AC5-4614-A09F-9EE4D234C206}|V1Program\\V1Program.csproj|d:\\visualstudio\\v1program\\v1program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FB03-0AC5-4614-A09F-9EE4D234C206}|V1Program\\V1Program.csproj|solutionrelative:v1program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FB03-0AC5-4614-A09F-9EE4D234C206}|V1Program\\V1Program.csproj|d:\\visualstudio\\v1program\\v1program\\v1program.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58D3FB03-0AC5-4614-A09F-9EE4D234C206}|V1Program\\V1Program.csproj|solutionrelative:v1program\\v1program.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FB03-0AC5-4614-A09F-9EE4D234C206}|V1Program\\V1Program.csproj|d:\\visualstudio\\v1program\\v1program\\v1program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58D3FB03-0AC5-4614-A09F-9EE4D234C206}|V1Program\\V1Program.csproj|solutionrelative:v1program\\v1program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "V1Program",
+              "DocumentMoniker": "D:\\VisualStudio\\V1Program\\V1Program\\V1Program.csproj",
+              "RelativeDocumentMoniker": "V1Program\\V1Program.csproj",
+              "ToolTip": "D:\\VisualStudio\\V1Program\\V1Program\\V1Program.csproj",
+              "RelativeToolTip": "V1Program\\V1Program.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T07:33:39.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "V1Program",
+              "DocumentMoniker": "D:\\VisualStudio\\V1Program\\V1Program\\V1Program.csproj",
+              "RelativeDocumentMoniker": "V1Program\\V1Program.csproj",
+              "ToolTip": "D:\\VisualStudio\\V1Program\\V1Program\\V1Program.csproj",
+              "RelativeToolTip": "V1Program\\V1Program.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T07:20:51.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\V1Program\\V1Program\\Program.cs",
+              "RelativeDocumentMoniker": "V1Program\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\V1Program\\V1Program\\Program.cs",
+              "RelativeToolTip": "V1Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:18:02.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
