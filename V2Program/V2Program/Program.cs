@@ -152,9 +152,9 @@ namespace WordFrequency.V2
 
             if (args.Length < 1)
             {
-                Console.WriteLine("Usage: V2Program <directory_path> [N] [M] [top_n]");
-                Console.WriteLine("Example: V2Program C:\\Texts 6 2 20");
-                return;
+                Console.WriteLine("Enter directory path:");
+                string directoryPath2 = Console.ReadLine() ?? string.Empty;
+                args = new string[] { directoryPath2 };
             }
 
             string directoryPath = args[0];
@@ -188,6 +188,7 @@ namespace WordFrequency.V2
 
             Console.WriteLine("\nDone. Press any key to exit.");
             Console.ReadKey();
+            Console.ReadLine();
         }
 
         static int ParseArg(string[] args, int index, int defaultValue, string label)
@@ -196,6 +197,8 @@ namespace WordFrequency.V2
             if (int.TryParse(args[index], out int value) && value >= 0) return value;
             Console.WriteLine($"Invalid {label} value '{args[index]}'; using default {defaultValue}.");
             return defaultValue;
-        }
+
+
+        } 
     }
 }
