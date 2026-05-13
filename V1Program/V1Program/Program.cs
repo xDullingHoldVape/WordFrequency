@@ -132,9 +132,9 @@ namespace WordFrequency.V1
 
             if (args.Length < 1)
             {
-                Console.WriteLine("Usage: V1Program <directory_path> [top_n]");
-                Console.WriteLine("Example: V1Program C:\\Texts 20");
-                return;
+                Console.WriteLine("Enter directory path:");
+                string directoryPath2 = Console.ReadLine() ?? string.Empty;
+                args = new string[] { directoryPath2 };
             }
 
             string directoryPath = args[0];
@@ -169,6 +169,9 @@ namespace WordFrequency.V1
 
             Console.WriteLine("\nDone. Press any key to exit.");
             Console.ReadKey();
+
+
+            Console.ReadLine();
         }
     }
 }
